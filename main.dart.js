@@ -8362,7 +8362,7 @@ o=n}s.Ku(new A.DV(q,B.DD,p,o,null))
 s.zz()},
 AS:function AS(a){this.a=a},
 amQ(){var s=null,r=t.F
-return A.d5(s,new A.cl(B.z6,A.er(A.a([A.ff(A.a([A.ff(A.a([A.hN("images/marpp_logo.png",s,s),B.v_,B.Lw],r),B.a9,B.K,B.a4),A.ff(A.a([A.er(A.a([B.Lu,B.en,A.e4(!1,s,!0,B.Li,s,!0,s,s,s,s,s,s,s,s,s,new A.a2k(),s),B.T,A.e4(!1,s,!0,B.Ll,s,!0,s,s,s,s,s,s,s,s,s,new A.a2l(),s),B.T,A.e4(!1,s,!0,B.Lp,s,!0,s,s,s,s,s,s,s,s,s,new A.a2m(),s)],r),B.a3,B.K),B.uY,A.er(A.a([B.Ls,B.en,A.e4(!1,s,!0,B.LA,s,!0,s,s,s,s,s,s,s,s,s,new A.a2n(),s),B.T,A.e4(!1,s,!0,B.LL,s,!0,s,s,s,s,s,s,s,s,s,new A.a2o(),s),B.T,A.e4(!1,s,!0,B.Lj,s,!0,s,s,s,s,s,s,s,s,s,new A.a2p(),s)],r),B.a3,B.K),B.uY,A.er(A.a([B.Lr,B.en,A.e4(!1,s,!0,B.Lo,s,!0,s,s,s,s,s,s,s,s,s,new A.a2q(),s),B.T,A.e4(!1,s,!0,B.Lh,s,!0,s,s,s,s,s,s,s,s,s,new A.a2r(),s),B.T,A.e4(!1,s,!0,B.Lv,s,!0,s,s,s,s,s,s,s,s,s,new A.a2s(),s)],r),B.a3,B.K)],r),B.a9,B.K,B.a4)],r),B.a3,B.D4,B.a4),B.hF,B.zc,B.Lb],r),B.a9,B.K),s),B.yh,s,300,s,s,s)},
+return A.d5(s,new A.cl(B.z6,A.er(A.a([A.ff(A.a([A.ff(A.a([A.hN("images/camera_icon.png",50,s),B.v_,B.Lw],r),B.a9,B.K,B.a4),A.ff(A.a([A.er(A.a([B.Lu,B.en,A.e4(!1,s,!0,B.Li,s,!0,s,s,s,s,s,s,s,s,s,new A.a2k(),s),B.T,A.e4(!1,s,!0,B.Ll,s,!0,s,s,s,s,s,s,s,s,s,new A.a2l(),s),B.T,A.e4(!1,s,!0,B.Lp,s,!0,s,s,s,s,s,s,s,s,s,new A.a2m(),s)],r),B.a3,B.K),B.uY,A.er(A.a([B.Ls,B.en,A.e4(!1,s,!0,B.LA,s,!0,s,s,s,s,s,s,s,s,s,new A.a2n(),s),B.T,A.e4(!1,s,!0,B.LL,s,!0,s,s,s,s,s,s,s,s,s,new A.a2o(),s),B.T,A.e4(!1,s,!0,B.Lj,s,!0,s,s,s,s,s,s,s,s,s,new A.a2p(),s)],r),B.a3,B.K),B.uY,A.er(A.a([B.Lr,B.en,A.e4(!1,s,!0,B.Lo,s,!0,s,s,s,s,s,s,s,s,s,new A.a2q(),s),B.T,A.e4(!1,s,!0,B.Lh,s,!0,s,s,s,s,s,s,s,s,s,new A.a2r(),s),B.T,A.e4(!1,s,!0,B.Lv,s,!0,s,s,s,s,s,s,s,s,s,new A.a2s(),s)],r),B.a3,B.K)],r),B.a9,B.K,B.a4)],r),B.a3,B.D4,B.a4),B.hF,B.zc,B.Lb],r),B.a9,B.K),s),B.yh,s,300,s,s,s)},
 a2k:function a2k(){},
 a2l:function a2l(){},
 a2m:function a2m(){},
@@ -8373,7 +8373,7 @@ a2q:function a2q(){},
 a2r:function a2r(){},
 a2s:function a2s(){},
 amR(){var s=null,r=t.F
-return A.d5(s,new A.cl(B.z3,A.ff(A.a([A.ff(A.a([A.hN("images/logo.png",s,s),B.v_,B.LI],r),B.a9,B.K,B.a4),A.ff(A.a([A.e4(!1,A.p6(20),!0,B.Ed,s,!0,s,s,B.f4,s,s,s,s,s,s,new A.a2t(),s),B.uZ,A.e4(!1,A.p6(20),!0,B.Ec,s,!0,s,s,B.f4,s,s,s,s,s,s,new A.a2u(),s),B.uZ,A.e4(!1,A.p6(20),!0,B.Eb,s,!0,s,s,B.f4,s,s,s,s,s,s,new A.a2v(),s)],r),B.a9,B.K,B.a4)],r),B.a9,B.cE,B.a4),s),s,B.w7,s,s,s,s)},
+return A.d5(s,new A.cl(B.z3,A.ff(A.a([A.ff(A.a([A.hN("images/camera_icon.png",s,100),B.v_,B.LI],r),B.a9,B.K,B.a4),A.ff(A.a([A.e4(!1,A.p6(20),!0,B.Ed,s,!0,s,s,B.f4,s,s,s,s,s,s,new A.a2t(),s),B.uZ,A.e4(!1,A.p6(20),!0,B.Ec,s,!0,s,s,B.f4,s,s,s,s,s,s,new A.a2u(),s),B.uZ,A.e4(!1,A.p6(20),!0,B.Eb,s,!0,s,s,B.f4,s,s,s,s,s,s,new A.a2v(),s)],r),B.a9,B.K,B.a4)],r),B.a9,B.cE,B.a4),s),s,B.w7,s,s,s,s)},
 a2t:function a2t(){},
 a2u:function a2u(){},
 a2v:function a2v(){},
