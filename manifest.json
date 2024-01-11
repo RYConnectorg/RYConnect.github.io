@@ -1,6 +1,6 @@
 {
-    "name": "megna_caters_app",
-    "short_name": "megna_caters_app",
+    "name": "event_bazzar",
+    "short_name": "event_bazzar",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

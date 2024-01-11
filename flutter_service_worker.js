@@ -3,14 +3,22 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "eb09f1ee0d1a9bff0d7686d9ee3b3bb7",
-"assets/AssetManifest.bin.json": "f99ac1403d685bf2b593a87a9644f322",
-"assets/AssetManifest.json": "0251164e826ade21675030ee505ae45f",
+const RESOURCES = {"assets/AssetManifest.bin": "9ecde2f3addffcc3f64620943ced6d28",
+"assets/AssetManifest.bin.json": "57d3c0c1e87682e18bdc9d9fb4fbb2a0",
+"assets/AssetManifest.json": "bb8e8b04e9d832ef07acd7ba98e93018",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "32fce58e2acb9c420eab0fe7b828b761",
+"assets/images/bride.jpg": "b958f3df0859f4c4d39125c7cff0c480",
+"assets/images/camera1.jpg": "21cbddfe7967e7a1bab70ee280e6a0df",
+"assets/images/camera_icon.png": "0008023cbf8f5ab45f233c83f2558756",
 "assets/images/crm.png": "b946e3f8bd42e88140c3f05486871dbc",
+"assets/images/decoration.png": "c6f38260550ace5d5332e3a277f49f29",
 "assets/images/discuss.png": "a78f195db6ded5f25cf688839f8baf8e",
+"assets/images/hbd.png": "9d12c6d56b0e547108872162b34f9254",
+"assets/images/logo.png": "f2ef442b2a34de1252d7cedc50aa3600",
+"assets/images/magic.png": "5ebe0d7180158c78dc91114ecafe0f58",
 "assets/images/mail.png": "e3081201a9dbdbc1090d560a35333087",
+"assets/images/makeup.png": "2f2de82abeb229936ec4b1cbdc711716",
 "assets/images/market_auto.png": "33b601a33bfb699be944f068a7706dd4",
 "assets/images/marpp_logo.png": "d6ff4f3ec5ff4b8b60f3e8c8f95a131e",
 "assets/images/marpp_logo.svg": "cc9e28f56e074478c24c330046fea488",
@@ -20,7 +28,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "eb09f1ee0d1a9bff0d7686d9ee3b3bb7
 "assets/images/speaker.png": "177f4090b371b66252b3b9903dd1d847",
 "assets/images/urban_woman.png": "d7084f669ef2403289aee5d9f8e942cd",
 "assets/images/wedding1.jpg": "16bd832883edf5e78b1cd8f6f7885d9e",
-"assets/NOTICES": "52e3cebec57d0a3ec01e6c601aa7840a",
+"assets/NOTICES": "e670426fb9b710f97877e8b2d6181bae",
 "assets/shaders/ink_sparkle.frag": "4096b5150bac93c41cbc9b45276bd90f",
 "canvaskit/canvaskit.js": "eb8797020acdbdf96a12fb0405582c1b",
 "canvaskit/canvaskit.wasm": "64edb91684bdb3b879812ba2e48dd487",
@@ -35,11 +43,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "eb09f1ee0d1a9bff0d7686d9ee3b3bb7
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "1d83ae26569e96361e79fbaf78e55f89",
-"/": "1d83ae26569e96361e79fbaf78e55f89",
-"main.dart.js": "3d7c74d8b2169aed0ef61a79cc484125",
-"manifest.json": "9f70a93c5ce7c3c040c6065e59472c63",
-"version.json": "b8d9a4b62959f2ec793a62d4f3186d30"};
+"index.html": "0db9178c2cea8f24706b4006f8bdab76",
+"/": "0db9178c2cea8f24706b4006f8bdab76",
+"main.dart.js": "c6bae9530f40424711767b7fd9fc2dc6",
+"manifest.json": "6c6f8050df001f603952ba8aa25df385",
+"version.json": "f6af646e1ddae47f438f61a43f4f3fb7"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
