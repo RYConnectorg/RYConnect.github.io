@@ -8429,7 +8429,7 @@ o=n}s.KK(new A.Ee(q,B.Es,p,o,null))
 s.zQ()},
 B8:function B8(a){this.a=a},
 anP(){var s=null,r=t.E
-return A.d2(s,new A.bJ(B.zO,A.eu(A.a([A.eI(A.a([A.eI(A.a([A.mT("images/camera_icon.png",50,s),B.Hu,B.M5],r),B.jy,B.V,B.S),A.eu(A.a([B.M0,B.bY,A.jg(!1,s,!0,B.LY,s,!0,s,s,s,s,s,s,s,s,s,new A.a32(),s),B.aO,A.jg(!1,s,!0,B.M3,s,!0,s,s,s,s,s,s,s,s,s,new A.a33(),s),B.aO,A.jg(!1,s,!0,B.M_,s,!0,s,s,s,s,s,s,s,s,s,new A.a34(),s)],r),B.at,B.V)],r),B.at,B.DR,B.S),B.zU,B.vr],r),B.J,B.V),s),B.r,B.js,s,s,s,300,s,s,s,s,s)},
+return A.d2(s,new A.bJ(B.zO,A.eu(A.a([A.eI(A.a([A.eI(A.a([A.mT("images/camera_icon.png",50,s),B.Hu,B.M5],r),B.jy,B.V,B.S),A.eu(A.a([B.M1,B.bY,A.jg(!1,s,!0,B.LY,s,!0,s,s,s,s,s,s,s,s,s,new A.a32(),s),B.aO,A.jg(!1,s,!0,B.M_,s,!0,s,s,s,s,s,s,s,s,s,new A.a33(),s),B.aO,A.jg(!1,s,!0,B.M0,s,!0,s,s,s,s,s,s,s,s,s,new A.a34(),s)],r),B.at,B.V)],r),B.at,B.DR,B.S),B.zU,B.vr],r),B.J,B.V),s),B.r,B.js,s,s,s,300,s,s,s,s,s)},
 a32:function a32(){},
 a33:function a33(){},
 a34:function a34(){},
@@ -8446,7 +8446,7 @@ p.push(A.jg(!1,A.LR(20),!0,new A.bJ(B.jQ,A.ii("Contact Us",A.lK(o,o,B.cg,o,o,o,o
 return A.d2(o,new A.bJ(new A.b1(s,10,s,10),A.eI(A.a([n,new A.qj(1,B.fp,A.eI(p,B.J,B.pe,B.S),o)],m),B.J,B.V,B.S),o),B.r,o,o,B.wD,o,o,o,o,o,o,o)},
 a35:function a35(){},
 aoC(){var s=null,r=t.E
-return A.d2(s,A.eu(A.a([B.bY,A.kq(A.eI(A.a([A.mT("images/camera_icon.png",30,s),B.v8,B.M6],r),B.J,B.bh,B.S),s,s),B.fk,B.bY,B.M1,B.Hv,A.jg(!1,s,!0,B.LZ,s,!0,s,s,s,s,s,s,s,s,s,new A.a3A(),s),B.aO,A.jg(!1,s,!0,B.M4,s,!0,s,s,s,s,s,s,s,s,s,new A.a3B(),s),B.bY,B.fk,B.vr,B.bY],r),B.J,B.bh),B.r,B.js,s,s,s,s,s,s,s,s,s)},
+return A.d2(s,A.eu(A.a([B.bY,A.kq(A.eI(A.a([A.mT("images/camera_icon.png",30,s),B.v8,B.M6],r),B.J,B.bh,B.S),s,s),B.fk,B.bY,B.M2,B.Hv,A.jg(!1,s,!0,B.LZ,s,!0,s,s,s,s,s,s,s,s,s,new A.a3A(),s),B.aO,A.jg(!1,s,!0,B.M4,s,!0,s,s,s,s,s,s,s,s,s,new A.a3B(),s),B.bY,B.fk,B.vr,B.bY],r),B.J,B.bh),B.r,B.js,s,s,s,s,s,s,s,s,s)},
 a3A:function a3A(){},
 a3B:function a3B(){},
 r4:function r4(a){this.a=a},
@@ -35902,7 +35902,7 @@ l=t.fr
 k=A.ii(m,B.Jl,g)
 n=i.w[n]
 j=t.E
-return A.a5f(A.a8T(A.a([A.eu(A.a([p,A.d2(g,new A.bJ(B.fm,A.kq(A.lG(A.DD(B.db,A.a([o,A.TA(30,A.d2(B.ij,new A.bJ(B.jQ,A.eu(A.a([new A.j4(k,B.aI,B.aH,B.dp,new A.cB(m,l)),new A.j4(A.ii(n,B.vo,g),B.aH,B.aH,B.dp,new A.cB(n,l))],j),B.at,B.V),g),B.r,g,g,g,g,g,g,g,g,g,s.a.a-20),g,g,10,g,g,g)],j),B.er),r.a.b*0.7,1/0),g,g),g),B.r,B.ci,g,g,g,g,g,g,g,g,g),A.d2(g,new A.bJ(B.zL,A.eu(A.a([B.v9,B.M2,B.v9,new A.bJ(B.fm,A.eu(A.a([i.kk("assets/images/pngegg.png","Wedding Caterers",u.y),i.kk("assets/images/camera_icon.png","Photography and Video",u.t),i.kk("assets/images/decoration.png","Stage Decoration",u.C),i.kk("assets/images/makeup.png","Bridal and Groom's Makeup Services","Our experienced makeup artists are dedicated to         enhancing your natural beauty on your special day. With personalized consultations and high-quality products, we create flawless looks that reflect your individual style, ensuring you radiate confidence and beauty."),i.kk("assets/images/hbd.png","Birthday Special Events","Marketing automation can supply useful content thatdevelops trust in and respect for the brand,educating potential customers about its servicesand helping them to qualify their interest."),i.kk("assets/images/magic.png",u.o,u.d),A.eu(A.a([A.mT("assets/images/camera1.jpg",200,200),B.F3],j),B.J,B.V)],j),B.J,B.bh),g),B.hH],j),B.J,B.V),g),B.r,B.i,g,g,g,g,g,g,g,g,g),new A.bJ(B.zP,A.d2(g,B.F2,B.r,g,g,new A.d8(B.fh,g,g,A.LR(10),g,g,B.ae),g,g,g,g,g,g,g),g),A.aoC()],j),B.J,B.V)],j),q),q,B.aJ,g,g,A.p4(),B.q,B.bU,g,g,B.jo,!1,B.b7,g)},
+return A.a5f(A.a8T(A.a([A.eu(A.a([p,A.d2(g,new A.bJ(B.fm,A.kq(A.lG(A.DD(B.db,A.a([o,A.TA(30,A.d2(B.ij,new A.bJ(B.jQ,A.eu(A.a([new A.j4(k,B.aI,B.aH,B.dp,new A.cB(m,l)),new A.j4(A.ii(n,B.vo,g),B.aH,B.aH,B.dp,new A.cB(n,l))],j),B.at,B.V),g),B.r,g,g,g,g,g,g,g,g,g,s.a.a-20),g,g,10,g,g,g)],j),B.er),r.a.b*0.7,1/0),g,g),g),B.r,B.ci,g,g,g,g,g,g,g,g,g),A.d2(g,new A.bJ(B.zL,A.eu(A.a([B.v9,B.M3,B.v9,new A.bJ(B.fm,A.eu(A.a([i.kk("assets/images/pngegg.png","Wedding Caterers",u.y),i.kk("assets/images/camera_icon.png","Photography and Video",u.t),i.kk("assets/images/decoration.png","Stage Decoration",u.C),i.kk("assets/images/makeup.png","Bridal and Groom's Makeup Services","Our experienced makeup artists are dedicated to         enhancing your natural beauty on your special day. With personalized consultations and high-quality products, we create flawless looks that reflect your individual style, ensuring you radiate confidence and beauty."),i.kk("assets/images/hbd.png","Birthday Special Events","Marketing automation can supply useful content thatdevelops trust in and respect for the brand,educating potential customers about its servicesand helping them to qualify their interest."),i.kk("assets/images/magic.png",u.o,u.d),A.eu(A.a([A.mT("assets/images/camera1.jpg",200,200),B.F3],j),B.J,B.V)],j),B.J,B.bh),g),B.hH],j),B.J,B.V),g),B.r,B.i,g,g,g,g,g,g,g,g,g),new A.bJ(B.zP,A.d2(g,B.F2,B.r,g,g,new A.d8(B.fh,g,g,A.LR(10),g,g,B.ae),g,g,g,g,g,g,g),g),A.aoC()],j),B.J,B.V)],j),q),q,B.aJ,g,g,A.p4(),B.q,B.bU,g,g,B.jo,!1,B.b7,g)},
 kk(a,b,c){var s=null,r=A.mT(a,s,s),q=A.ii(b,B.vq,B.br),p=A.ii(c,B.vn,B.br),o=A.a7m(B.j),n=t.E
 return A.eu(A.a([r,B.aO,q,B.aO,p,B.aO,A.eI(A.a([A.d2(s,A.kq(A.jg(!1,s,!0,B.k0,s,!0,s,s,s,s,s,s,s,s,s,new A.a_P(),s),s,s),B.r,s,s,new A.d8(B.i,s,o,B.ip,s,s,B.ae),s,30,s,s,s,s,40)],n),B.J,B.bh,B.S),B.vb],n),B.J,B.bh)},
 Wb(a){var s=this,r=s.d+1
@@ -64961,14 +64961,14 @@ B.hR=new A.m(!0,null,null,null,null,null,12,null,null,null,null,null,null,null,n
 B.LY=new A.ci("+917418366455",null,B.hR,null,null,null)
 B.vp=new A.m(!0,null,null,null,null,null,15,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.LZ=new A.ci("+917418366455",null,B.vp,null,null,null)
-B.M_=new A.ci(" ",null,B.hR,null,null,null)
+B.M_=new A.ci("eventbazzarbala@gmail.com",null,B.hR,null,null,null)
+B.M0=new A.ci(" ",null,B.hR,null,null,null)
 B.KO=new A.m(!0,null,null,null,null,null,12,B.aX,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.M0=new A.ci("Contact Us",null,B.KO,null,null,null)
+B.M1=new A.ci("Contact Us",null,B.KO,null,null,null)
 B.KP=new A.m(!0,null,null,null,null,null,18,B.aX,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.M1=new A.ci("Contact Us",null,B.KP,null,null,null)
+B.M2=new A.ci("Contact Us",null,B.KP,null,null,null)
 B.Jr=new A.m(!0,B.cg,null,null,null,null,25,B.ds,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.M2=new A.ci("We offer a wide range of services to make your wedding, corporate event, or any special occasion perfect.",null,B.Jr,null,!0,null)
-B.M3=new A.ci("magnaodc@gmail.com",null,B.hR,null,null,null)
+B.M3=new A.ci("We offer a wide range of services to make your wedding, corporate event, or any special occasion perfect.",null,B.Jr,null,!0,null)
 B.M4=new A.ci("magnaodc@gmail.com",null,B.vp,null,null,null)
 B.Kq=new A.m(!0,B.j,null,null,null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.M6=new A.ci("Event Bazzar",null,B.Kq,null,null,null)
